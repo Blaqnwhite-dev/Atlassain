@@ -1245,3 +1245,13 @@ cursor: grabbing;
         
 }
 
+@media(max-width:700px){
+    .container8{
+        bottom: -22%;
+    }
+     .cont17-txt h2{
+        font-size: 30px;
+    }
+
+}
+

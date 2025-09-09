@@ -1247,10 +1247,16 @@ cursor: grabbing;
 
 @media(max-width:700px){
     .container8{
-        bottom: -22%;
+        bottom: -18%;
     }
      .cont17-txt h2{
         font-size: 30px;
+    }
+         .sub-cont14 h3 {
+        font-size: 18px;
+    }
+    .sub-cont14 h5{
+        font-size: 14px;
     }
 
 }
